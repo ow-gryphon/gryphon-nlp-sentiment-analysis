@@ -7,7 +7,7 @@
     "methodology": ["NLP"],
     "topic": [],
 
-    "description": "",
+    "description": "Template for sentiment modeling from texts.",
     "author": "Vittor Faria Pereira and Daniel Wang",
     "author_email": "daniel.wang@oliverwyman.com"
 }
