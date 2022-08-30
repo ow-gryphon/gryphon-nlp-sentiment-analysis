@@ -12,13 +12,13 @@ with open('metadata.json') as fr:
 
 setuptools.setup(
     name="gryphon-nlp-sentiment-analysis",  # Name of the repository
-    version="0.0.1",
+    version="0.0.2",
     author=metadata.get("author", ""),
     author_email=metadata.get("author_email", ""),
     description=metadata.get("description", ""),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",  # Repository URL or externally maintained page
+    url="https://github.com/ow-gryphon/gryphon-nlp-sentiment-analysis",  # Repository URL or externally maintained page
     packages=setuptools.find_packages(),
     python_requires='>=3.6',
     install_requires=requirements,
