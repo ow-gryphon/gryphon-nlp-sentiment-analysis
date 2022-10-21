@@ -1,13 +1,13 @@
 {
     "display_name": "Sentiment Analysis",
     "command": "generate",
-    "dependencies": [],
+    "dependencies": ["pandas", "numpy", "sklearn"],
 
-    "keywords": [],
-    "methodology": ["NLP"],
+    "keywords": ["nlp", "text", "sentiment"],
+    "methodology": ["Text and natural language processing"],
     "topic": [],
 
-    "description": "Template for sentiment modeling from texts.",
+    "description": "Template for sentiment modeling from texts",
     "author": "Vittor Faria Pereira and Daniel Wang",
     "author_email": "daniel.wang@oliverwyman.com"
 }
