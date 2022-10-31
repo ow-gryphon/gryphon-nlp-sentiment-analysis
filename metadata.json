@@ -9,5 +9,6 @@
 
     "description": "Template for sentiment modeling from texts",
     "author": "Vittor Faria Pereira and Daniel Wang",
-    "author_email": "daniel.wang@oliverwyman.com"
+    "author_email": "daniel.wang@oliverwyman.com",
+    "read_more_link": "https://github.com/ow-gryphon/gryphon-nlp-sentiment-analysis"
 }
